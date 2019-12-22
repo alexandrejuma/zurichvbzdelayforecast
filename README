@@ -1,5 +1,7 @@
+Instructions:
 
-The notebook should be ran with these library versions
+1) After pulling the repository, decompress all raw data (.7z files).
+2) The notebook should be ran with these library versions
 
 Package                            Version    
 ---------------------------------- -----------
